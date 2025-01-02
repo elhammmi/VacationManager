@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <RootNamespace>VacationManager.Domain</RootNamespace>
+    <AssemblyName>VacationManager.Domain</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" />
+    <PackageReference Include="System.Text.Json" />
+  </ItemGroup>
+
+</Project>
